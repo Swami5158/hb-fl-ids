@@ -1,0 +1,10 @@
+venv/
+data/raw/
+data/processed/
+checkpoints/
+__pycache__/
+*.pyc
+*.pkl
+*.log
+*.pt
+*.pth
